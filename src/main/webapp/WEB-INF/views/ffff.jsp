@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>하이</h2>
+	<h2>하이77</h2>
 </body>
 </html>
